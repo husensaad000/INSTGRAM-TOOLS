@@ -183,15 +183,10 @@ increase_followers
 
 elif [[ $option -eq 2 ]]; then
 echo "Author : husensaad " | lolcat
-echo "Telegram : https://t.me/SS_SS_1" | lolcat
-echo "Telegram : https://t.me/TT_RQ" | lolcat
-echo "Telegram : https://t.me/TT_RQ1" | lolcat
-echo "Telegram : https://t.me/O1OOB" | lolcat
-echo "Telegram : https://t.me/UUU0UB" | lolcat
 echo "YouTube : HUSSEN PRO " | lolcat
 
 
-figlet -f slant "Sidra" | lolcat
+figlet -f slant "HUSEN" | lolcat
 exit
 
 else
