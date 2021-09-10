@@ -1,4 +1,4 @@
-#The Credit For This Code Goes To Sidra ELEzz
+#The Credit For This Code Goes To Hisenalhebe
 #If You Wanna Take Credits For This Code, Please Look Yourself Again...
 #Reserved2021.
 string4=$(openssl rand -hex 32 | cut -c 1-4)
@@ -17,11 +17,10 @@ ig_sig="4f8732eb9ba7d1c8e8897a75d6474d4eb3f5279137431b2aafb71fafe2abe178"
 clear
 
 banner() {
-figlet -f slant "Sidra" | lolcat
+figlet -f slant "Husen" | lolcat
 echo "<=====================[✺]====================>" | lolcat
-echo "<=====[       Script By Sidra ELEzz       ]=====>" | lolcat
-echo  "<=====[  Telegram: https://t.me/TT_RQ.    ]=====>" | lolcat
-echo  "<=====[  YouTube : Termux Tools           ]=====>" | lolcat
+echo "<=====[       Script By HUSENALHEBE       ]=====>" | lolcat
+echo  "<=====[  YouTube : HUSSEN PRO         ]=====>" | lolcat
 echo "<=====================[✺]====================>" | lolcat
 
 }
@@ -172,7 +171,7 @@ menu() {
 
 printf "\n"
 printf " \e[1;31m[\e[0m\e[1;77m01\e[0m\e[1;31m]\e[0m\e[1;93m Increase the number of followers\e[0m\n"
-printf " \e[1;31m[\e[0m\e[1;77m02\e[0m\e[1;31m]\e[0m\e[1;93m Follow Sidra ELEzz\e[0m\n"
+printf " \e[1;31m[\e[0m\e[1;77m02\e[0m\e[1;31m]\e[0m\e[1;93m Follow Husensaad\e[0m\n"
 printf "\n"
 
 
@@ -183,13 +182,13 @@ login_user
 increase_followers
 
 elif [[ $option -eq 2 ]]; then
-echo "Author : Sidra ELEzz " | lolcat
+echo "Author : husensaad " | lolcat
 echo "Telegram : https://t.me/SS_SS_1" | lolcat
 echo "Telegram : https://t.me/TT_RQ" | lolcat
 echo "Telegram : https://t.me/TT_RQ1" | lolcat
 echo "Telegram : https://t.me/O1OOB" | lolcat
 echo "Telegram : https://t.me/UUU0UB" | lolcat
-echo "YouTube : Termux Tools " | lolcat
+echo "YouTube : HUSSEN PRO " | lolcat
 
 
 figlet -f slant "Sidra" | lolcat
